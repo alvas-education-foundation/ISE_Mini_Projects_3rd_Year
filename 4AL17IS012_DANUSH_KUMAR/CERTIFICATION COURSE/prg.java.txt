@@ -24,7 +24,7 @@ public class Solution {
         {
             if(n>=2&&n<=5)
             {
-                ans="Not Weird";
+                ans="Not    Weird";
             }
             else if(n>=6&&n<=20)
             {
