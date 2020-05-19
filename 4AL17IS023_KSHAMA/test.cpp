@@ -1,4 +1,4 @@
-/*First program*/
+/*First program Day1*/
 #include<iostream>
 using namespace std;
 int main()
